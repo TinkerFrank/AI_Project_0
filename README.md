@@ -25,7 +25,7 @@ This app will mitigate the alertness factor, its does not scan the hardware for 
 
 As an application running in the background, initial target users will be office workers, elderly and young people.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Elderly_woman_sitting_in_an_armchair_and_holding_her_glasses_while_typing_on_a_laptop._%2851531777613%29.jpg" width="300">
 
 
 ## Data sources and AI methods
