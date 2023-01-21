@@ -29,7 +29,9 @@ As an application running in the background, initial target users will be office
 
 
 ## Data sources and AI methods
-Tricky part, data will be come from users as their behavior is partly generic and personal, will need to be anonimized or locally trained #needs more thought
+Tricky part which requires more thought:
+1. How to train an AI to detect outliers (e.g. a never seen before pattern)
+2. data will be come from users as their behavior is partly generic and personal, will need to be anonimized or locally trained 
 
 ## Challenges
 It does not solve online fraud
